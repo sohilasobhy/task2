@@ -4,6 +4,10 @@
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
 }
+p {
+  padding: 0;
+  margin: 0;
+}
 .sub-header {
   font-size: 14px;
 }
@@ -15,4 +19,15 @@
 .add-to-cart {
   background-color: yellow;
   border: 0;
+}
+.copy-rights {
+  font-size: 14px;
+}
+.copy-rights a {
+  border-bottom: solid black 1px;
+  text-decoration: none;
+  color: black;
+}
+footer p {
+  font-size: 12px;
 }
