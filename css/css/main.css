@@ -31,3 +31,14 @@ p {
 footer p {
   font-size: 12px;
 }
+@media screen and (max-width: 767px) {
+  .filter h4 {
+    font-size: 18px;
+  }
+  .filter p {
+    font-size: 14px;
+  }
+  .filter button {
+    font-size: 14px;
+  }
+}
