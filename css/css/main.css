@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+.sub-header {
+  font-size: 14px;
+}
+.filter {
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.525);
+}
+.add-to-cart {
+  background-color: yellow;
+  border: 0;
+}
